@@ -3,6 +3,7 @@
 }/*max-width:1680px*/
 @media screen and (max-width:1440px){
 	.single-welcome-hero {height: 807px;}
+
 }/*max-width:1440px*/
 
 @media screen and (max-width:1199px){
@@ -33,6 +34,7 @@
 	nav.navbar.bootsnav .navbar-brand {padding: 25px;}
 	nav.navbar.bootsnav ul.nav > li > a {padding: 15px 0px;border: transparent;}
 	.attr-nav > ul > li > a {padding: 20px 15px;}
+	.des-contact .personel-info{display: flex; flex-wrap: wrap;}
 }/*max-width:992px*/
 
 @media screen and (max-width:991px){
@@ -64,15 +66,31 @@
 }/*max-width:640px*/
 
 @media screen and (max-width: 580px){
+	.personel-info,
+	.des-contact{
+		margin-left: 20px;
+	}
+	.in{
+		margin-left: 100px;
+	}
+	
 
 }/*max-width:580px*/
 
 @media screen and (max-width: 540px){
+	.personel-info,
+	.des-contact{
+		margin-left: 5px;
+	}
 
 }/*max-width:540px*/
 
 @media screen and (max-width: 480px){
 	.welcome-hero h2 {font-size: 30px;}
+	.personel-info,
+	.des-contact{
+		margin-left: 3px;
+	}
 	
 }/*max-width:480px*/
 
@@ -80,6 +98,11 @@
 	nav.navbar.bootsnav .dropdown .megamenu-content .col-menu .title{padding: 10px 0px;}
 	.welcome-hero-txt h2,{font-size: 24px;line-height: 1.5;}
 	.welcome-hero-txt h3,.welcome-hero-txt h4 {font-size: 24px;}
+	.personel-info,
+	.des-contact{
+		margin-left: -34px;
+	}
+	
 	
 }/*max-width:400px*/
 

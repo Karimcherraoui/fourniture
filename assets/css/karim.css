@@ -5,6 +5,7 @@
 /* .populer-products .container .col-md-3 {
     
 } */
+
 .populer-products .container .populer-products-content .col-md-6 .row{
     display: flex;
     flex-direction: column !important;

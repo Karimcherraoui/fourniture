@@ -278,6 +278,7 @@ ul.cart-list > li.total {
     font-weight: 500;
     text-transform: capitalize;
     border-radius: 3px;
+    /* margin-left: 92px; */
 }
 /*.cart-list*/
 
@@ -940,8 +941,6 @@ span.feature-review {margin-left: 10px;}
 	-o-transition:.5s;
     transition: .5s;
 	z-index: 2;
-}
-#scroll-Top  .return-to-top:hover {
     background:#fff;
     color: #e99c2e;
 	border:1px solid #e99c2e;
